@@ -89,14 +89,6 @@ Deploy and manage the creative writing assistant with MLOps tools.
 **Generated Story**:
 _"In a lush, green forest far away, young Amelia wandered deeper than she ever had before. The trees whispered secrets, and soon she found herself face to face with creatures unlike anything she had ever seen—tall, glowing beings with eyes like starlight..."_
 
----
 
-## Visual Representation
-
-![Generative Model Training Process](https://via.placeholder.com/400x200)
-
-*Flowchart of the pipeline including data preprocessing, model training, and deployment.*
-
----
 
 This project showcases how state-of-the-art AI techniques can be applied to creative writing tasks, providing a user-friendly assistant that adapts to different writing prompts.
